@@ -4,6 +4,8 @@ Simple todolist write in django for general use and pipeline automation..
 
   - Be kind with my baby
 
+BATATA
+
 ### Quick and free tip:
 
 > With great power comes great responsibility
